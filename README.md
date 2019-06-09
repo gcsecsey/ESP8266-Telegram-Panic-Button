@@ -1,12 +1,12 @@
 # ESP8266-Telegram-Panic-Button
-👇💬 An Arduino ESP8266/nodeMCU based Telegram bot for sending messages with a push of a (real life panic-)button!
+👇💬 An Arduino ESP8266/nodeMCU based Telegram bot for sending messages with a press of a (real life panic) button!
 
 ## How to use
 ### Step 1
 Create a new telegram bot ([💬 the Botfather](https://telegram.me/BotFather))
 
 ### Step 2
-Provide the bot token and the conversation ID ([💬 the ID Bot](https://t.me/myidbot)) in the code and load it onto a [nodeMCU](https://www.aliexpress.com/item/V2-4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32647690484.html) or any ESP8266/Wifi 101 compatible board
+Add the bot to a conversation. Provide the bot token and the conversation ID ([💬 the ID Bot](https://t.me/myidbot)) in the code and load it onto a [nodeMCU](https://www.aliexpress.com/item/V2-4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32647690484.html) or any ESP8266/Wifi 101 compatible board
 
 ### Step 3
 Install the nodeMCU into an [emergency stop button](https://www.aliexpress.com/item/1-NO-1-NC-10A-660V-Emergency-Stop-Push-Button-Red-Mushroom-Switch-Station-EDF88/32976080135.html) from which the safety mechanism has been removed that'd keep it pressed
