@@ -17,7 +17,7 @@ Connect the button to a power source through USB
 <img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.jpg" width="250">
 
 ### Step 5
-Configure WiFi
+Connect to the _NodeMCU autoconnect_ WiFi network, and set up the WiFi connection of the board
 
 <img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step2.png" width="250">
 
