@@ -14,12 +14,12 @@ Install the nodeMCU into an [emergency stop button](https://www.aliexpress.com/i
 ### Step 4
 Connect the button to a power source through USB
 
-![step4](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.jpg | width=250)
+<img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.png" width="250">
 
 ### Step 5
 Configure WiFi
 
-![step5](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step2.png | width=250)
+<img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step2.png" width="250">
 
 ### Step 6
 Press the Button!
@@ -27,7 +27,7 @@ Press the Button!
 ### Step 7
 __💲PROFIT💲__
 
-![step7](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step3.png | width=250)
+<img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step3.png" width="250">
 
 ## Dependencies
  - [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
