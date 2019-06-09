@@ -1,4 +1,4 @@
-# ESP8266-IoT-button
+# ESP8266-Telegram-Panic-Button
 👇💬 An Arduino ESP8266/nodeMCU based Telegram bot for sending messages with a push of a (real life panic-)button!
 
 ## How to use
@@ -9,22 +9,25 @@ Create a new telegram bot ([💬 the Botfather](https://telegram.me/BotFather))
 Provide the bot token and the conversation ID ([💬 the ID Bot](https://t.me/myidbot)) in the code and load it onto a [nodeMCU](https://www.aliexpress.com/item/V2-4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32647690484.html) or any ESP8266/Wifi 101 compatible board
 
 ### Step 3
-Install said nodeMCU into an [emergency stop button](https://www.aliexpress.com/item/1-NO-1-NC-10A-660V-Emergency-Stop-Push-Button-Red-Mushroom-Switch-Station-EDF88/32976080135.html) from which the safety mechanism has been removed that'd keep it pressed
+Install the nodeMCU into an [emergency stop button](https://www.aliexpress.com/item/1-NO-1-NC-10A-660V-Emergency-Stop-Push-Button-Red-Mushroom-Switch-Station-EDF88/32976080135.html) from which the safety mechanism has been removed that'd keep it pressed
 
 ### Step 4
 Connect the button to a power source through USB
-![step4](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.jpg)
+
+![step4](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.jpg | width=250)
 
 ### Step 5
 Configure WiFi
-![step5](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step2.png)
+
+![step5](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step2.png | width=250)
 
 ### Step 6
 Press the Button!
 
 ### Step 7
-PROFIT
-![step7](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step3.png)
+__💲PROFIT💲__
+
+![step7](https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step3.png | width=250)
 
 ## Dependencies
  - [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
