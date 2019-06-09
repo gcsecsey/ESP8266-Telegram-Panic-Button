@@ -14,7 +14,7 @@ Install the nodeMCU into an [emergency stop button](https://www.aliexpress.com/i
 ### Step 4
 Connect the button to a power source through USB
 
-<img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.png" width="250">
+<img src="https://github.com/gcsecsey/ESP8266-IoT-button/blob/master/images/step1.jpg" width="250">
 
 ### Step 5
 Configure WiFi
